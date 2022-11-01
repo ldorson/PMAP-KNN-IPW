@@ -427,13 +427,6 @@ modelsummary(list("RCT"= model_rct,
   kableExtra::kable_styling(latex_options = "hold_position")
 ```
 
-    ## Warning in kableExtra::row_spec(., 3, bold = TRUE, color = "white", background
-    ## = "green"): Please specify format in kable. kableExtra can customize either HTML
-    ## or LaTeX outputs. See https://haozhu233.github.io/kableExtra/ for details.
-
-    ## Warning in kableExtra::kable_styling(., latex_options = "hold_position"): Please
-    ## specify format in kable. kableExtra can customize either HTML or LaTeX outputs.
-    ## See https://haozhu233.github.io/kableExtra/ for details.
 
 |             |    RCT    |   Naive   | Matched + weights |    IPW    | IPW truncated at 8 |
 |:------------|:---------:|:---------:|:-----------------:|:---------:|:------------------:|
