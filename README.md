@@ -1,4 +1,4 @@
-README
+Matching and Inverse Probability Weighting
 ================
 Lindsey Dorson
 
